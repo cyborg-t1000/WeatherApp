@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погодный информер</string>
+    <string name="app_title">Погода</string>
+    <string name="city_name">Москва</string>
+    <string name="night">Ночь</string>
+    <string name="morning">Утро</string>
+    <string name="day">День</string>
+    <string name="evening">Вечер</string>
+    <string name="enter_city_name">Введите город</string>
+</resources>
